@@ -6,6 +6,11 @@ This is a command line client for the [Gandi HTTP API](http://doc.rpc.gandi.net/
 For now, only a couple of DNS related functions are implemented. Pull requests
 are certainly welcome. It's straightforward to extend.
 
+Installation
+------------
+
+    $ easy_install gandi
+
 Usage
 -----
 
